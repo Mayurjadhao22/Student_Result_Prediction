@@ -90,7 +90,7 @@ st.markdown("""
         text-shadow: 0 0 10px rgba(244, 63, 94, 0.5);
     }
 </style>
-""", unsafe_allow_allowed_html=True)
+""", unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
 # Model Loading
