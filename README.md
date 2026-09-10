@@ -1,1 +1,1 @@
-# Student_Result_Prediction
+# student_result_prediction
